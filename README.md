@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```zsh
-test
+> test
 ```
 <!--
 **Jyolando/Jyolando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
