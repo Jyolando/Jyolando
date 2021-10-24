@@ -1,7 +1,7 @@
 ```zsh
 > bash ./jyolando.sh
 ```
-```charp
+```csharp
 jyolando@github
 -------------------------
 OS: macOS Big Sur Apple M1
