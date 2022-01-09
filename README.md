@@ -4,12 +4,13 @@
 ```csharp
 jyolando@github
 -------------------------
-OS: macOS Big Sur Apple M1
-Shell: zsh 5.8
+OS: macOS Monterey
+Shell: zsh
 Gender: Male
+Age: 20
 Location: Moscow, Russia
 Languages: Node.JS, Clang, T-SQL
 Learning: Clang, Unix
-Hobbies: Mentoring, Gaming
+Hobbies: Mentoring
 Telegram: @jyolando
 ```
