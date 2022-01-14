@@ -10,7 +10,7 @@ Gender: Male
 Age: 20
 Location: Moscow, Russia
 Languages: Node.JS, Clang, T-SQL
-Learning: Clang, Unix
+Learning: Clang, Unix, Swift
 Hobbies: Mentoring
 Telegram: @jyolando
 ```
