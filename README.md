@@ -4,7 +4,7 @@
 ```csharp
 jyolando@github
 -------------------------
-OS: macOS Monterey
+OS: macOS
 Shell: zsh
 Gender: Male
 Age: 20
